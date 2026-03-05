@@ -1,0 +1,6 @@
+streamlit
+numpy
+bcrypt
+cryptography
+pandas
+matplotlib
