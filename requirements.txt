@@ -3,4 +3,5 @@ numpy
 bcrypt
 cryptography
 pandas
+scipy
 matplotlib
